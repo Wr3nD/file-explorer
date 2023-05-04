@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.folder {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: grey;
+  max-width: 250px;
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+.file {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: grey;
+  max-width: 250px;
+  margin: 0.5rem;
+  margin-left: 2rem;
+  display: flex;
+}
